@@ -1,0 +1,4 @@
+1.Jsx - javascript + html + css 
+    The html should have one root tag 
+2.Component - any html file is known as component  
+3.Attribute class Should be replaced by className
